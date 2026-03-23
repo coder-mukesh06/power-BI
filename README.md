@@ -28,6 +28,7 @@ This project analyzes Adidas sales data to identify key business insights such a
 ## 📊 Dashboard Preview
 
 ![Dashboard](screenshots/dashboard.png)
+<img width="673" height="374" alt="adidas dashboard" src="https://github.com/user-attachments/assets/ddeeb37a-d639-49be-bc7b-f933e04d03f2" />
 
 ## 🚀 Key Insights
 
@@ -42,6 +43,7 @@ This project analyzes Adidas sales data to identify key business insights such a
 ## 📂 Dataset
 
 Adidas sales dataset (sample / provided dataset)
+[Adidas US Sales Datasets.xlsx](https://github.com/user-attachments/files/26179852/Adidas.US.Sales.Datasets.xlsx)
 
 ---
 
